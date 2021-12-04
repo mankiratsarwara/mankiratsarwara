@@ -3,7 +3,7 @@ Hi, I code sometimes.
 Here's what I know:
 - HTML/JavaScript/PHP
 - C# (Desktop Development) - Java (Android Development)
-- SQL (Oracle, MySQL)
+- SQL (Oracle, MySQL, SQLite)
 - Google Firebase/Firestore
 
 I suggest looking at my pinned repositories below to see the kinds of applications that I have built!
