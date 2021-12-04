@@ -8,5 +8,8 @@ Here's what I know:
 - SQL
 
 Here's what I am aiming to learn in the near-future:
+-
+-
+-
 
 Thanks for visiting my profile and have a great day.
