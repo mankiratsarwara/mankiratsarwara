@@ -6,6 +6,6 @@ Here's what I know:
 - SQL (Oracle, MySQL)
 - Google Firebase/Firestore
 
-I suggest looking at my pinned repositories below to see the kinds of application I have built!
+I suggest looking at my pinned repositories below to see the kinds of applications that I have built!
 
 Thanks for visiting my profile and have a great day.
