@@ -1,5 +1,3 @@
-Mankirat
-
 Hi, I code sometimes.
 
 Here's what I know:
