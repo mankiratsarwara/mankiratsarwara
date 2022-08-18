@@ -1,11 +1,11 @@
 Hi, I code sometimes.
 
 Here's what I know:
-- HTML/JavaScript/PHP
-- C# (Desktop Development) - Java (Android Development)
+- HTML - JavaScript - PHP
+- C# - Java
 - SQL (Oracle, MySQL, SQLite)
 - Google Firebase/Firestore
 
-I suggest looking at my pinned repositories below to see the kinds of applications that I have built!
+I suggest looking at my pinned repositories below to see the kinds of applications that I have worked on!
 
-Thanks for visiting my profile and have a great day.
+Thank you for visiting my profile and have a great day.
