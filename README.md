@@ -1,4 +1,4 @@
-Hi, I code sometimes.
+Hi,
 
 Here's what I know:
 - HTML - JavaScript - PHP
