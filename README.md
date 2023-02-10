@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile!</h1>
-<h3 align="center">Computer Science Student. Cloud and Web Enthusiast.</h3>
+<h3 align="center">Computer Science Student. Cloud and A.I. Enthusiast.</h3>
 
 - I’m currently working on **full-stack projects.**
 
